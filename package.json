@@ -1,0 +1,16 @@
+{
+  "name": "@borgstorage/iconography",
+  "version": "0.0.0",
+  "description": "Web3 Icons and Assets",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "assets",
+    "ethereum"
+  ],
+  "author": "sam bacha",
+  "license": "MIT"
+}
